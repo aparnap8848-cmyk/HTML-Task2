@@ -1,0 +1,59 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.nav-box1{
+    background-color: rgb(6, 20, 16);
+
+}
+
+.nav-box2{
+    background-color:blue ;
+}
+
+.nav-box1 img{
+    background: transparent;
+}
+
+.container-box1{
+
+    height: 500px;
+    background-image:url(office\ image.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(1, 1,1);
+    text-shadow: 5px 5px 5px  rgb(119, 117, 117);
+
+}
+
+.container-p1{
+    margin: 0px 250px;
+    text-align: center;
+
+}
+
+.container-box2{
+    background-color: rgb(17, 17, 17);
+    height: 500px;
+    color: white;
+
+}
+
+.box1{
+    height: 270px;
+}
+
+.contact{
+    background-color: rgb(58, 56, 56);
+    color: rgb(233, 211, 211);
+    height: 400px;
+}
+
+.contact input,textarea{
+    opacity: 5%;
+    border: 5px solid rgb(247, 240, 240);
+}
